@@ -1,0 +1,146 @@
+[
+    {
+	    "category": "smartphones",
+	    "vendor": "Apple",
+	    "model": "Apple iPhone 16",
+	    "price": 850.99,
+	    "image": "https://images.congstar.de//fileadmin/files_congstar_fair/endgeraete/apple/apple-iphone-16/apple-iphone-16-pink-0.png?auto=compress,format&q=80&w=500",
+	    "descr": ""
+    },
+    {
+        "category": "smartphones",
+        "vendor": "Apple",
+        "model": "Apple iPhone 16 128GB Ultramarin",
+        "price": 839.0,
+        "image": "https://media.cdn.kaufland.de/product-images/1024x1024/4e05782d9f6a746f05f4cdf543c59a6a.webp",
+        "descr": ""
+    },
+    {
+        "category": "smartphones",
+        "vendor": "Apple",
+        "model": "Apple iPhone 16 15,5 cm (6.1) Dual-SIM iOS 18 5G USB Typ-C 128 GB Schwarz",
+        "price": 847.0,
+        "image": "https://media.cdn.kaufland.de/product-images/1024x1024/40c906586b4380817948afbeffe2006f.webp",
+        "descr": ""
+    },
+    {
+        "category": "smartphones",
+        "vendor": "Apple",
+        "model": "iPhone 15 256GB - Schwarz - Ohne Vertrag",
+        "price": 680.09,
+        "image": "https://www.backmarket.de/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/666afa89-6a49-4101-b7c7-d6414d531095-1_f3ab80a4-571e-42ed-869c-16a28cd0fbd0.jpg",
+        "descr": ""
+    },
+    {
+        "category": "smartphones",
+        "vendor": "Apple",
+        "model": "Apple iPhone 16 128Gb Teal",
+        "price": 893.48,
+        "image": "https://www.galaxus.de/im/productimages/2/6/2/4/4/6/6/1/4/3/2/4/6/9/1/4/5/8/3/7c828fee-3668-42f5-b136-123904e9ccaf_cropped.jpg?impolicy=product&resizeWidth=720",
+        "descr": ""
+    },
+    {
+        "category": "smartphones",
+        "vendor": "Apple",
+        "model": "Apple iPhone 16 128GB White (MYE93ZD/A)",
+        "price": 849.0,
+        "image": "https://media.cdn.kaufland.de/product-images/1024x1024/cbe1bf3c88fb30eae3ad479c76028483.webp",
+        "descr": ""
+    },
+    {
+        "category": "smartwatches",
+        "vendor": "Amazfit",
+        "model": "Amazfit GTR 2 Classic Smartwatch",
+        "price": 143.19,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTKwkg4aK39sH6GJCDnoNaOtAbCdkxyYj--DCUjHa4MOLjK2_cqApNaOg7AXLUmq3h6DjhaSBeIDbx4C4M3wrSihisMZ8_JMA&usqp=CAY",
+        "descr": ""
+    },
+    {
+        "category": "smartwatches",
+        "vendor": "Mibro",
+        "model": "Mibro Lite 3 Pro",
+        "price": 263.78,
+        "image": "https://www.mibrofit.com/cdn/shop/files/MibroSmartWatchLite3ProSilverL_800x.jpg?v=1723623318",
+        "descr": ""
+    },
+    {
+        "category": "smartwatches",
+        "vendor": "Samsung",
+        "model": "Samsung Galaxy Watch7 Smartwatch",
+        "price": 560.67,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb8GBcKQ1osUTEah8XNNm5mc_Hrq9E1tq2xZdmXocPeVb9nbC5oLodUUCrjPxa157AcKv_EVHY3Q7Mvcgx1_PhImu-SHpz&usqp=CAY",
+        "descr": ""
+    },
+    {
+        "category": "smartwatches",
+        "vendor": "Xiaomi",
+        "model": "Xiaomi Redmi Watch 5 Active Smartwatch",
+        "price": 78.98,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_wyqJsj6vuSD7r1xgsDSLzJxvSZ5mHAYdu892b54rhaF4BMo&usqp=CAY",
+        "descr": ""
+    },
+    {
+        "category": "smartwatches",
+        "vendor": "Huawei",
+        "model": "Huawei Watch Fit SE Smartwatch, Pink",
+        "price": 99.98,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGOr_vwSs3DgkeC_MkV_QhwB65Bg__CiCEXdhqOcgRHMtStHZ5XUUT4Mblgwy5fiG3Sub7-vzX6aPeQ5L0mIq8gb6GP2lw&usqp=CAY",
+        "descr": ""
+    },
+    {
+        "category": "smartwatches",
+        "vendor": "OnePlus",
+        "model": "OnePlus Watch 2R Forest Green",
+        "price": 380.12,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLyGmHRrJZcpcxIlykPCoCXNaZZXspYWd5LxHrRbzpt5hlj1PukXK89D039t6uiSvUuy8TRdocudx5Y4qll8Ea3lVqPGEI&usqp=CAY",
+        "descr": ""
+    },
+    {
+        "category": "cameras",
+        "vendor": "Sony",
+        "model": "Sony Alpha 7 III",
+        "price": 2259.12,
+        "image": "https://www.foto-mundus.de/media/image/22/1c/bc/sony_alpha_7_iii_sel_28-70mm_f35-56.png",
+        "descr": ""
+    },
+    {
+        "category": "cameras",
+        "vendor": "Canon",
+        "model": "Canon EOS 2000D",
+        "price": 1235.76,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvOtl1PyiUKznmsJN_i5Vg3YugtFB3gMmFxvOZBIyXpYMtRf7K5gDKZDd-s0OHh8nJvzr3XEc4ChiUWJhNPWl86yRE43sP_i8cda-DH2xi",
+        "descr": ""
+    },
+    {
+        "category": "cameras",
+        "vendor": "Canon",
+        "model": "Canon EOS R6 Mark II",
+        "price": 3455.98,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTchvCuawwEJkREYNsdQjbG7iRaR5gkEJpkCORvPpRluRv-rzsda8Q4dr7gVTxNTZA5RRM-RZMYHGNhMpoFawPqmHjezsqhZ9zlNzXfYyyCJNHAKynHrZs8jA",
+        "descr": ""
+    },
+    {
+        "category": "cameras",
+        "vendor": "Nikon",
+        "model": "Nikon Z5",
+        "price": 1245.78,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-LZ3YZie1bxfCkjZottlFrFN7Cb3f3v4a0CymKEcOu-YiPcXj9O1ZLwjoSEoaVaPqIR-xPv9RIZmcaqUiS-6GBxJrIzW9-c0RZ1UeXiOkVk2oCjjSpfRZVw",
+        "descr": ""
+    },
+    {
+        "category": "cameras",
+        "vendor": "Nikon",
+        "model": "Nikon Z f Body",
+        "price": 2789.76,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvRCKD4DWDrklUapQbG9B_dirV2KW1Da7msc2O8P7hKxeHZZ7Ka2YoFflULIyECpfC7EtH7wxJGaE6HY-kKc742c7QmS1u_mVSYmX1y3nc6TJApiDhqDDPTw",
+        "descr": ""
+    },
+    {
+        "category": "cameras",
+        "vendor": "Canon",
+        "model": "Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens",
+        "price": 987.12,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSpMm_mO47jb1zIBbW3iCs2G5IE723pVlIbE85dg4KzdOiAsNFbHsAjCq_JvgQsAdjJfEisXo_y8i9oOGVsJA7UNed5HgZcdl3xYt6KGC2GW4DYNj481Fum",
+        "descr": ""
+    }
+]

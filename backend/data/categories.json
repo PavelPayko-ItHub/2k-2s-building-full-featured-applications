@@ -1,0 +1,37 @@
+[
+    {
+        "name": "smartphones",
+        "displayName": "SmartPhones",
+        "image": "https://images.vexels.com/media/users/3/128088/isolated/preview/0353dfacfd1c8805016146276c708b74-phone-blue-flat-icon.png"
+    },
+    {
+        "name": "smartwatches",
+        "displayName": "SmartWatches",
+        "image": "https://cdn-icons-png.flaticon.com/512/6368/6368701.png"
+    },
+    {
+        "name": "cameras",
+        "displayName": "Cameras",
+        "image": "https://images.vexels.com/content/127661/preview/flat-and-simple-camera-icon-c50ede.png"
+    },
+    {
+        "name": "headphones",
+        "displayName": "HeadPhones",
+        "image": "https://images.vexels.com/content/150845/preview/audio-headphones-icon-2df781.png"
+    },
+    {
+        "name": "laptops",
+        "displayName": "Laptops",
+        "image": "https://images.vexels.com/content/128132/preview/flat-laptop-icon-design-ae5eab.png"
+    },
+    {
+        "name": "desktops",
+        "displayName": "Desktops",
+        "image": "https://images.vexels.com/content/157204/preview/black-and-white-computer-desktop-icon-b5c6b0.png"
+    },
+    {
+        "name": "gaming",
+        "displayName": "Gaming",
+        "image": "https://i.pinimg.com/originals/a4/04/fa/a404fa3232d26e91f8ea3a0937c3cb77.png"
+    }
+]
